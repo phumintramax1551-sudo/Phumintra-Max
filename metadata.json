@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Angel: Tactical FPS",
+  "description": "เกมยิงปืน FPS 3D สไตล์ Cyber-Tactical ที่ได้แรงบันดาลใจจากกลิ่นอาย Bullet Angel พร้อมระบบ Angel Dance ฟื้นฟูเลือด โหมดชีวะกลายพันธุ์ (Mutant Outbreak) และ Team Deathmatch สุดเร้าใจ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
